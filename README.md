@@ -15,6 +15,6 @@ Uso: Dashboards administrativas que requieran panel de inicio de sesion o pagina
 Estructura del proyecto: - index.php (Pagina principal)
 			 - docs/ (Documentacion generada con phpdoc)
 
-
+Enlace al proyecto: https://github.com/dani-nunez04/Proyecto-Pablo.git
 
 Autor: dani-nunez04
